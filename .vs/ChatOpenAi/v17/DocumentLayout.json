@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sange\\source\\repos\\ChatOpenAi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|d:\\sange\\source\\repos\\chatopenai\\business\\openaiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|solutionrelative:business\\openaiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|d:\\sange\\source\\repos\\chatopenai\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|solutionrelative:pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|d:\\sange\\source\\repos\\chatopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|d:\\sange\\source\\repos\\chatopenai\\business\\openairesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|solutionrelative:business\\openairesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|d:\\sange\\source\\repos\\chatopenai\\business\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD600AE9-21AB-4907-9132-818820FF0F0C}|ChatOpenAi.csproj|solutionrelative:business\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "D:\\sange\\source\\repos\\ChatOpenAi\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "Pages\\Chat.razor",
+              "ToolTip": "D:\\sange\\source\\repos\\ChatOpenAi\\Pages\\Chat.razor",
+              "RelativeToolTip": "Pages\\Chat.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T19:30:06.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "D:\\sange\\source\\repos\\ChatOpenAi\\Business\\Choice.cs",
+              "RelativeDocumentMoniker": "Business\\Choice.cs",
+              "ToolTip": "D:\\sange\\source\\repos\\ChatOpenAi\\Business\\Choice.cs",
+              "RelativeToolTip": "Business\\Choice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:23:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAiResponse.cs",
+              "DocumentMoniker": "D:\\sange\\source\\repos\\ChatOpenAi\\Business\\OpenAiResponse.cs",
+              "RelativeDocumentMoniker": "Business\\OpenAiResponse.cs",
+              "ToolTip": "D:\\sange\\source\\repos\\ChatOpenAi\\Business\\OpenAiResponse.cs",
+              "RelativeToolTip": "Business\\OpenAiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:17:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenAIServices.cs",
+              "DocumentMoniker": "D:\\sange\\source\\repos\\ChatOpenAi\\Business\\OpenAIServices.cs",
+              "RelativeDocumentMoniker": "Business\\OpenAIServices.cs",
+              "ToolTip": "D:\\sange\\source\\repos\\ChatOpenAi\\Business\\OpenAIServices.cs",
+              "RelativeToolTip": "Business\\OpenAIServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:04:07.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sange\\source\\repos\\ChatOpenAi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sange\\source\\repos\\ChatOpenAi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:55:54.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

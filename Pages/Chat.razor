@@ -1,0 +1,33 @@
+﻿    @using ChatOpenAi.Business 
+    @inject OpenAIServices OpenAIService
+
+<h3>Chat</h3>
+
+<div>
+    <textarea @bind="userInput" rows="4" cols="50"></textarea>
+    <button @onclick="SendMessage">Send</button>
+</div>
+
+<div>
+    <h4>Responses:</h4>
+    @foreach (var response in responses)
+    {
+        <p>@response</p>
+    }
+</div>
+
+@code {
+    private string userInput;
+    private List<string> responses = new();
+
+    private async Task SendMessage()
+    {
+        var response = await OpenAIService.GetChatResponse(userInput);
+        responses.Add(response);
+        userInput = string.Empty;
+    }
+}
+
+
+
+
